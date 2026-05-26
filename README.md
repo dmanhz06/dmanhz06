@@ -40,7 +40,8 @@
 
 ### 📬 Contact Me
 
-* 🌐 **GitHub:** [https://github.com/dmanhz06](https://github.com/dmanhz06) 
+* 🌐 **GitHub:** [https://github.com/dmanhz06](https://github.com/dmanhz06)
+* 📧 **Email:** [duymanhbui305@gmail.com](mailto:duymanhbui305@gmail.com)
 
 ---
 
