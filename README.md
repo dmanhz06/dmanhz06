@@ -26,7 +26,7 @@
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 📱 **Dmanhz_Social_App(SoulMate)** | Ứng dụng mạng xã hội di động kết hợp nghe nhạc và viết nhật kí chia sẻ cảm xúc, có thể đăng bài post lên community và nhắn tin trực tiếp với người dùng qua lại bằng hệ thống quản lý dữ liệu thời gian thực (realtime) và dịch vụ thông báo đẩy (Push Notifications). | Java/Kotlin, Android Studio, Firebase, Cloudinary, OneSignal | [Repo](https://github.com/dmanhz06/Dmanhz_Social_App) |
+| 📱 **Dmanhz_Social_App(SoulMate)** | Ứng dụng mạng xã hội di động kết hợp nghe nhạc và viết nhật kí chia sẻ cảm xúc, có thể đăng bài post lên community và nhắn tin trực tiếp với người dùng qua lại bằng hệ thống quản lý dữ liệu thời gian thực (realtime) và dịch vụ thông báo đẩy (Push Notifications). | Java/Kotlin, Android Studio, Firebase, Cloudinary, OneSignal | [Repo](https://github.com/dmanhz06/Landing-Page-for-My-Social-App-SoulMate-) |
 
 ---
 
